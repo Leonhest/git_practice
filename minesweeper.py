@@ -10,3 +10,5 @@ grid_size = input("Size of grid")
 
 minesweeper(int(grid_size))
 
+import random
+
