@@ -12,3 +12,4 @@ minesweeper(int(grid_size))
 
 import random
 
+print("Hello")
